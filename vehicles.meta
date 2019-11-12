@@ -5,10 +5,10 @@
 
   <InitDatas>
    <Item>
-      <modelName>tr22</modelName>
-      <txdName>tr22</txdName>
-      <handlingId>tr22</handlingId>
-      <gameName>tr22</gameName>
+      <modelName>roadster</modelName>
+      <txdName>roadster</txdName>
+      <handlingId>roadster</handlingId>
+      <gameName>roadster</gameName>
       <vehicleMakeName>KARIN</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
