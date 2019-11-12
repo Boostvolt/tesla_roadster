@@ -2,7 +2,7 @@
 <CVehicleModelInfoVariation>
   <variationData>
 		<Item>
-      <modelName>tr22</modelName>
+      <modelName>roadster</modelName>
       <colors>
         <Item>
           <indices content="char_array">
