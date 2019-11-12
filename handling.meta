@@ -2,18 +2,8 @@
 
 <CHandlingDataMgr>
   <HandlingData>
-
-
-
-
-
-
-
-
-
-
     <Item type="CHandlingData">
-      <handlingName>tr22</handlingName>
+      <handlingName>roadster</handlingName>
       <fMass value="1650.000000" />
       <fInitialDragCoeff value="8.500000" />
       <fPercentSubmerged value="85.000000" />
