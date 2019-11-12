@@ -135,7 +135,7 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </reversingLightCorona>
-      <name>tr22</name>
+      <name>roadster</name>
     </Item>
   </Lights>
 </CVehicleModelInfoVarGlobal>
